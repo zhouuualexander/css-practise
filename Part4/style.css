@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+.wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  background-color: green;
+  width: 96vh;
+  height: 10vh;
+  margin-bottom: 3vh;
+  margin-top: 5vh;
+  border: black solid;
+}
+.body {
+  display: flex;
+  margin-bottom: 3vh;
+}
+img {
+  width: 30vh;
+  height: auto;
+  margin-right: 3vh;
+}
+.footer {
+  display: flex;
+}
+.color {
+  width: 29.5vh;
+  height: 30vh;
+  margin-right: 3vh;
+  border: black solid;
+}
