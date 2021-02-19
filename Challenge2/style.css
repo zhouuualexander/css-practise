@@ -1,0 +1,21 @@
+body {
+  background-color: lightskyblue;
+  font-family: sans-serif;
+}
+
+li {
+  list-style: none;
+}
+#wrap {
+  position: relative;
+}
+ul {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+b {
+  font-size: x-large;
+  font-weight: 500;
+}
